@@ -44,7 +44,8 @@ TESTS_3D = \
 	test-triangle-smoothed \
 	test-triangle-quad \
 	test-instanced \
-	test-tf
+	test-tf \
+	test-partial-update
 
 TESTS_CL = \
 	test-simple \
