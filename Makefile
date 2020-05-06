@@ -27,6 +27,7 @@ TESTS_3D = \
 	test-cube \
 	test-cube-textured \
 	test-cubemap \
+	test-discard \
 	test-draw \
 	test-draw-indirect \
 	test-enable-disable \
