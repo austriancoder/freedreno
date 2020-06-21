@@ -67,6 +67,7 @@ TESTS_3D = \
 	test-tex-fbo \
 	test-tex-layout \
 	test-tf \
+	test-tf-compute \
 	test-triangle-quad \
 	test-triangle-smoothed \
 	test-ubwc \

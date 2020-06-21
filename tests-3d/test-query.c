@@ -81,6 +81,7 @@ void test_query(int querytype, int w, int h)
 	static const GLfloat clear_color[] = {0.0, 0.0, 0.0, 0.0};
 	static const GLfloat quad_color[]  = {1.0, 0.0, 0.0, 1.0};
 	static const GLfloat quad2_color[]  = {0.0, 1.0, 0.0, 1.0};
+	static const GLfloat quad3_color[]  = {0.0, 0.0, 1.0, 1.0};
 	static const GLfloat vertices[] = {
 			-0.45, -0.75, 0.0,
 			 0.45, -0.75, 0.0,
